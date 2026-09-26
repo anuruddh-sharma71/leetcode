@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuruddh-sharma71/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
