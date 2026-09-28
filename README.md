@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/anuruddh-sharma71/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0605-can-place-flowers) |
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0561-array-partition](https://github.com/anuruddh-sharma71/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0605-can-place-flowers) |
 ## Sorting
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuruddh-sharma71/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
