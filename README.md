@@ -92,11 +92,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/anuruddh-sharma71/leetcode/tree/master/0069-sqrtx) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/anuruddh-sharma71/leetcode/tree/master/0441-arranging-coins) |
 ## Math
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anuruddh-sharma71/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anuruddh-sharma71/leetcode/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/anuruddh-sharma71/leetcode/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
 | ------- |
