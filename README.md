@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuruddh-sharma71/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2396-strictly-palindromic-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/anuruddh-sharma71/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anuruddh-sharma71/leetcode/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/anuruddh-sharma71/leetcode/tree/master/0441-arranging-coins) |
+| [2396-strictly-palindromic-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Newton's Method
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anuruddh-sharma71/leetcode/tree/master/0067-add-binary) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
