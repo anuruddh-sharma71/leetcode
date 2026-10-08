@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/anuruddh-sharma71/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anuruddh-sharma71/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/anuruddh-sharma71/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/anuruddh-sharma71/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/anuruddh-sharma71/leetcode/tree/master/0441-arranging-coins) |
 ## Math
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuruddh-sharma71/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/anuruddh-sharma71/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
