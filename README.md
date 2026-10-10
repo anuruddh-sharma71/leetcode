@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0180-consecutive-numbers) |
 | [0619-biggest-single-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/0619-biggest-single-number) |
 ## Array
 |  |
