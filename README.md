@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/anuruddh-sharma71/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0605-can-place-flowers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuruddh-sharma71/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anuruddh-sharma71/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/anuruddh-sharma71/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/anuruddh-sharma71/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anuruddh-sharma71/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/anuruddh-sharma71/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anuruddh-sharma71/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0561-array-partition](https://github.com/anuruddh-sharma71/leetcode/tree/master/0561-array-partition) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anuruddh-sharma71/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
 | ------- |
