@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuruddh-sharma71/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/anuruddh-sharma71/leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2396-strictly-palindromic-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anuruddh-sharma71/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anuruddh-sharma71/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/anuruddh-sharma71/leetcode/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/anuruddh-sharma71/leetcode/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/anuruddh-sharma71/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuruddh-sharma71/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
