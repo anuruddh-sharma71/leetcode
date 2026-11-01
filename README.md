@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anuruddh-sharma71/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anuruddh-sharma71/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anuruddh-sharma71/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0561-array-partition](https://github.com/anuruddh-sharma71/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/anuruddh-sharma71/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/anuruddh-sharma71/leetcode/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anuruddh-sharma71/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Newton's Method
