@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anuruddh-sharma71/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/anuruddh-sharma71/leetcode/tree/master/0441-arranging-coins) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/anuruddh-sharma71/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0492-construct-the-rectangle](https://github.com/anuruddh-sharma71/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/2396-strictly-palindromic-number) |
