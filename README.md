@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/anuruddh-sharma71/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anuruddh-sharma71/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/anuruddh-sharma71/leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anuruddh-sharma71/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anuruddh-sharma71/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Greedy
