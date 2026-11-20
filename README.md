@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anuruddh-sharma71/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0055-jump-game](https://github.com/anuruddh-sharma71/leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/anuruddh-sharma71/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anuruddh-sharma71/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anuruddh-sharma71/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/anuruddh-sharma71/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anuruddh-sharma71/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/anuruddh-sharma71/leetcode/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anuruddh-sharma71/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/anuruddh-sharma71/leetcode/tree/master/0435-non-overlapping-intervals) |
