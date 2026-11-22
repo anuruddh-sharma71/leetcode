@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/anuruddh-sharma71/leetcode/tree/master/0412-fizz-buzz) |
 | [0678-valid-parenthesis-string](https://github.com/anuruddh-sharma71/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anuruddh-sharma71/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anuruddh-sharma71/leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 ## String Matching
 |  |
 | ------- |
