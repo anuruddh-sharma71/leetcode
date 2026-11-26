@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anuruddh-sharma71/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2396-strictly-palindromic-number](https://github.com/anuruddh-sharma71/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3360-stone-removal-game](https://github.com/anuruddh-sharma71/leetcode/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/anuruddh-sharma71/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Newton's Method
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/anuruddh-sharma71/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/anuruddh-sharma71/leetcode/tree/master/0412-fizz-buzz) |
+| [3360-stone-removal-game](https://github.com/anuruddh-sharma71/leetcode/tree/master/3360-stone-removal-game) |
 ## Brainteaser
 |  |
 | ------- |
